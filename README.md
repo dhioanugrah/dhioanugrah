@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=120&text=Hi%2C%20I'm%20Dhio%20Anugrah%20👋&fontSize=36&fontColor=FFFFFF&desc=Backend%20Developer%20%7C%20Laravel%20%2B%20Vue%20Enthusiast&descAlignY=70" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=120&text=Hi%2C%20I'm%20Dhio%20Anugrah%20👋&fontSize=36&fontColor=FFFFFF&desc=Backend%20Developer%20%7C%20Laravel&descAlignY=70" alt="banner"/>
 
 ### 🧑‍💻 About Me
 Backend Developer & student at **Institut Teknologi Kalimantan (ITK)**.  
