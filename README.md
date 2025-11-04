@@ -16,7 +16,6 @@ Pernah memimpin proyek sistem manajemen warehouse di PT Hidrolik Teknologi Indot
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 ![MySQL](https://img.shields.io/badge/-MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Python](https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Looker](https://img.shields.io/badge/-Looker-0A0A0A?style=for-the-badge&logo=looker&logoColor=4285F4)
 ![Docker](https://img.shields.io/badge/-Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
