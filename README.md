@@ -41,10 +41,6 @@ Sistem penerimaan mahasiswa baru jalur mandiri berbasis Laravel (kerjasama denga
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dhioanugrah&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="160" src="https://streak-stats.demolab.com?user=dhioanugrah&theme=github-dark&hide_border=true" />
-</p>
-<p align="center">
   <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhioanugrah&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
