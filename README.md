@@ -1,10 +1,4 @@
-# Hi, I'm Dhio Anugrah 👋
-
-Backend Developer • Laravel Enthusiast • Informatics Student
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,vue,vite,mysql,python,docker,git" />
-</p>
+# hi, I'm Dhio Anugrah 
 
 ---
 
@@ -13,6 +7,24 @@ Backend Developer • Laravel Enthusiast • Informatics Student
 Backend Developer with experience in building REST APIs, warehouse management systems, and enterprise applications using Laravel.
 
 Currently working on backend development for Flutter and Web applications at Klinklin Surabaya while completing my bachelor's degree in Informatics at Institut Teknologi Kalimantan.
+
+---
+## Tech Stack
+
+**Backend**
+Laravel, PHP, REST API
+
+**Frontend**
+Vue.js, Vite, Tailwind CSS
+
+**Database**
+MySQL
+
+**Tools**
+Git, Docker, Postman
+
+**AI & Data**
+Python, TensorFlow
 
 ---
 
@@ -25,10 +37,7 @@ Currently working on backend development for Flutter and Web applications at Kli
   - Warehouse Management System for PT Hidrolik Teknologi Indotama
 
 - Final Year Research
-  - Endemic Flora Classification Using EfficientNetV2
----
-
-
+  - Endemic Kalimantan Flora Classification at Balikpapan Botanical Garden Using EfficientNetV2
 ---
 
 ### Connect
