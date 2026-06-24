@@ -1,86 +1,43 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=100&text=Dhio%20Anugrah&fontSize=32&fontColor=FFFFFF" />
+# Hi, I'm Dhio Anugrah 👋
 
-## Backend Developer
-
-Backend Developer and Informatics student at Institut Teknologi Kalimantan.
-
-Focused on building scalable web applications using Laravel, PHP, MySQL, and modern frontend technologies. Experienced in developing enterprise systems, warehouse management solutions, and AI-integrated applications.
-
----
-
-## Tech Stack
+Backend Developer • Laravel Enthusiast • Informatics Student
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,vue,vite,tailwind,mysql,python,docker,git" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,vite,mysql,python,docker,git" />
 </p>
 
 ---
 
-## Featured Projects
+### About Me
 
-### Warehouse Management System
-Laravel + Filament
+Backend Developer with experience in building REST APIs, warehouse management systems, and enterprise applications using Laravel.
+
+Currently working on backend development for Flutter and Web applications at Klinklin Surabaya while completing my bachelor's degree in Informatics at Institut Teknologi Kalimantan.
+
+---
+
+### Currently Working On
+
+- Backend Developer Intern at Klinklin Surabaya
+  - Building Laravel REST APIs for Flutter and Web platforms
 
 - Project Manager & Backend Developer
-- Inventory management system
-- Role-based access control
-- Approval workflow & reporting
+  - Warehouse Management System for PT Hidrolik Teknologi Indotama
 
-### Learning Management System
-Laravel + Vue
-
-- Course management
-- Student progress tracking
-- REST API integration
-- Modular architecture
-
-### E-Commerce with Sentiment Analysis
-Laravel + Vue + Python
-
-- Product management
-- AI-powered review analysis
-- NLP sentiment classification
-- Analytics dashboard
-
-### Summit ITK Admission System
-Laravel
-
-- Online admission platform
-- Registration workflow
-- Administrative dashboard
-
+- Final Year Research
+  - Endemic Flora Classification Using EfficientNetV2
 ---
 
-## GitHub Statistics
+### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dhioanugrah&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhioanugrah&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dhioanugrah&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## Experience
+### Connect
 
-**Web Developer Intern**  
-Klinklin Surabaya
+📧 dhioanugrahh@gmail.com
 
-**Project Manager & Backend Developer**  
-Warehouse Management System
-
-**Backend Developer**  
-Summit ITK Admission System
-
----
-
-## Contact
-
-<p>
-  <a href="mailto:dhioanugrahh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
-  </a>
-  
-  <a href="https://github.com/dhioanugrah">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+🐙 github.com/dhioanugrah
