@@ -28,11 +28,6 @@ Currently working on backend development for Flutter and Web applications at Kli
   - Endemic Flora Classification Using EfficientNetV2
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dhioanugrah&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
