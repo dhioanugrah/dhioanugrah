@@ -32,8 +32,9 @@ Python, TensorFlow
 
 ### Professional Experience
 
-- Backend Developer Intern at Klinklin Surabaya
+- Fullstack Developer Intern at PT KlinKlin
   - Building Laravel REST APIs for Flutter and Web platforms
+  - Building ERP Website for klinklin 
 
 - Project Manager & Backend Developer
   - Warehouse Management System for PT Hidrolik Teknologi Indotama
