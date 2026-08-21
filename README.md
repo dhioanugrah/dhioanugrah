@@ -1,4 +1,5 @@
+Welcome to my GitHub profile!
 
 <p align="center">
-  <img src="./profile.svg" alt="Dhio Anugrah Profile" />
+  <img src="profile.svg" alt="Dhio Anugrah Profile" />
 </p>
